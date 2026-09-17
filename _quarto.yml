@@ -4,9 +4,9 @@ project:
 book:
   # Update info below with your info. Add the date on the end of the filename 
   # when submitting to the chair and to the college (and updates to your advisor)
-  output-file: "your-name_thesis" 
-  title: "Informative thesis title"
-  author: "Your Name"
+  output-file: "nabiha-tahsin_thesis" 
+  title: "Pooling Intraclass Correlation Coefficients After Multiple Imputation in Cluster-Randomized Trials"
+  author: "Nabiha Tahsin"
   # `today` date option will automatically print the date of rendering
   date: today
   date-format: MMMM D, YYYY
