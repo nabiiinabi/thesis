@@ -23,8 +23,10 @@ book:
     # Must include if corrections are made after initial submission
     - 05-app2-corrections.qmd 
 
-# Replace this file with your .bib file
-bibliography: references.bib 
+# Thesis citations (Zotero export) plus template package refs
+bibliography:
+  - thesis_library.bib
+  - references.bib 
 # Do not remove this file
 csl: includes/american-statistical-association.csl 
 # Update department, advisors, and submission year with your information
